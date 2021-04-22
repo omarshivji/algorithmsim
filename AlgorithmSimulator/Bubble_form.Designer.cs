@@ -1,15 +1,14 @@
-﻿
-namespace AlgorithmSimulator
+﻿namespace AlgorithmSimulator
 {
-    partial class Form1
+    partial class Bubble_form
     {
         /// <summary>
-        ///  Required designer variable.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -24,8 +23,8 @@ namespace AlgorithmSimulator
         #region Windows Form Designer generated code
 
         /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
@@ -37,33 +36,35 @@ namespace AlgorithmSimulator
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(260, 82);
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.Location = new System.Drawing.Point(61, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(246, 15);
+            this.label1.Size = new System.Drawing.Size(727, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Select which algorithm you would like to use.";
+            this.label1.Text = "You have chosen the BubbleSort algorithm. Press the button below to sort the grap" +
+    "h. ";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(69, 167);
+            this.button1.Location = new System.Drawing.Point(649, 60);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(154, 88);
+            this.button1.Size = new System.Drawing.Size(117, 23);
             this.button1.TabIndex = 1;
             this.button1.Text = "BubbleSort";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(577, 167);
+            this.button2.Location = new System.Drawing.Point(61, 59);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(143, 88);
+            this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 2;
-            this.button2.Text = "BinarySearch";
+            this.button2.Text = "Back";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // Form1
+            // Bubble_form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -71,8 +72,8 @@ namespace AlgorithmSimulator
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Bubble_form";
+            this.Text = "Bubble_form";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -85,4 +86,3 @@ namespace AlgorithmSimulator
         private System.Windows.Forms.Button button2;
     }
 }
-

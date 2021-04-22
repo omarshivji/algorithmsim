@@ -1,0 +1,17 @@
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\bin\Debug\netcoreapp3.1\AlgorithmSimulator.exe
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\bin\Debug\netcoreapp3.1\AlgorithmSimulator.deps.json
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\bin\Debug\netcoreapp3.1\AlgorithmSimulator.runtimeconfig.json
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\bin\Debug\netcoreapp3.1\AlgorithmSimulator.runtimeconfig.dev.json
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\bin\Debug\netcoreapp3.1\AlgorithmSimulator.dll
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\bin\Debug\netcoreapp3.1\AlgorithmSimulator.pdb
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.csprojAssemblyReference.cache
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.Binary_form.resources
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.Bubble_form.resources
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.Form1.resources
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.csproj.GenerateResource.cache
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.AssemblyInfoInputs.cache
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.AssemblyInfo.cs
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.csproj.CoreCompileInputs.cache
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.dll
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.pdb
+C:\Users\os124\Source\Repos\algorithmsim\AlgorithmSimulator\obj\Debug\netcoreapp3.1\AlgorithmSimulator.genruntimeconfig.cache
